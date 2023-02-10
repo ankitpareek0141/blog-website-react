@@ -1,5 +1,6 @@
-# Getting Started with Create React App
+# Blogging website template
 
+![Blog website Home page](https://user-images.githubusercontent.com/68502136/218026641-364d0901-7fd0-4d03-80d6-855500b6a7f9.png)
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
